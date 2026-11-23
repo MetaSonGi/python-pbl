@@ -13,4 +13,4 @@
 | [pbl-01](pbl-01/) | Quiz05–09: 돔 설계, 미션 컴퓨터 센서·시스템 정보 | MetaSonGi/pbl-01 |
 | [pbl-02](pbl-02/) | Quiz01–10: 비밀번호 풀기, 카이사르 암호, 계산기 등 | MetaSonGi/pbl-02 |
 
-`pbl-02/Quiz01`의 `password.txt`와 zip 파일은 과제용 연습 데이터이며, 실제 계정 정보가 아닙니다.
+`pbl-02`의 `password.txt`는 빈 파일이고, zip 파일은 과제용 연습 데이터입니다.
